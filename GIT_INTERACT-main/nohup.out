@@ -1,0 +1,355 @@
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [24/Feb/2023 00:06:54] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 00:44:19] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 00:46:00] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 00:47:31] "[31m[1mGET /rec/value HTTP/1.1[0m" 400 -
+127.0.0.1 - - [24/Feb/2023 00:49:08] "GET /rec/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [24/Feb/2023 00:52:23] "GET /rec/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [24/Feb/2023 00:55:46] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:00:10] "GET /rec/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [24/Feb/2023 01:05:30] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:07:27] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:08:22] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:15:37] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:17:54] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:20:45] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:22:09] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 01:23:46] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 09:49:46] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:27:41] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:28:12] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:43:10] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:44:57] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:47:16] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:56:40] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:58:11] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 11:59:14] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 12:00:09] "GET /rec/queue HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [24/Feb/2023 12:02:36] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 12:05:12] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 12:10:20] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 12:48:03] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 12:49:41] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 12:50:09] "[31m[1mGET /rec/queue HTTP/1.1[0m" 400 -
+127.0.0.1 - - [24/Feb/2023 12:53:48] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 12:54:43] "GET /rec/queue HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [24/Feb/2023 13:03:23] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 13:25:51] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 13:29:16] "[31m[1mGET /rec/queue HTTP/1.1[0m" 400 -
+127.0.0.1 - - [24/Feb/2023 13:29:40] "[31m[1mGET /rec/value HTTP/1.1[0m" 400 -
+127.0.0.1 - - [24/Feb/2023 13:53:59] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [24/Feb/2023 13:55:15] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 11:25:21] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 11:28:18] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 11:41:50] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 11:43:52] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 11:43:53] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:16:30] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:35:54] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:36:49] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:36:56] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:37:05] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:38:06] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:40:45] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:41:54] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:49:06] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 12:52:39] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 15:18:20] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 15:19:43] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 15:26:39] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 15:35:53] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 16:40:23] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 16:40:33] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 16:40:36] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 16:41:08] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 16:42:20] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 16:42:36] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 16:51:21] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 21:32:37] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 21:33:13] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 21:36:56] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [05/Mar/2023 21:37:03] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 17:42:26] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 20:26:37] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 20:28:02] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 20:29:08] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 20:29:26] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 20:48:01] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 20:51:54] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 21:07:24] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 21:44:35] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 21:44:42] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 21:45:01] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 21:45:15] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 21:45:31] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 21:46:06] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [06/Mar/2023 22:01:10] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 00:15:26] "[31m[1mGET /rec/value HTTP/1.1[0m" 400 -
+127.0.0.1 - - [07/Mar/2023 16:46:16] "[31m[1mGET /rec/value HTTP/1.1[0m" 400 -
+127.0.0.1 - - [07/Mar/2023 16:58:58] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 17:00:59] "GET /rec/value HTTP/1.1" 200 -
+python: can't open file '04manage.py': [Errno 2] No such file or directory
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [07/Mar/2023 17:12:56] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 17:13:08] "GET /rec/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [07/Mar/2023 17:27:30] "[31m[1mGET /rec/queue HTTP/1.1[0m" 400 -
+127.0.0.1 - - [07/Mar/2023 17:41:43] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 17:42:41] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:22:14] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:25:22] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:25:48] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:27:53] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:27:58] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:30:16] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:30:28] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:35:25] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:43:21] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:43:39] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:43:44] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:45:54] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:46:10] "GET /rec/queue HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:47:25] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 18:47:46] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:01:25] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:04:27] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:06:20] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:07:05] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:07:51] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:08:03] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:08:56] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:09:07] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:10:29] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:11:50] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:17:40] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:18:01] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:18:17] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:19:44] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [07/Mar/2023 19:19:54] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:00:10] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:02:30] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:06:18] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:08:50] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:12:20] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:15:28] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:16:02] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:16:39] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:17:41] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:18:47] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:19:24] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:20:30] "GET /set/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [08/Mar/2023 21:25:09] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:25:43] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:25:53] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:26:00] "[31m[1mGET /rec/value HTTP/1.1[0m" 400 -
+127.0.0.1 - - [08/Mar/2023 21:26:03] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:26:07] "[31m[1mGET /rec/value HTTP/1.1[0m" 400 -
+127.0.0.1 - - [08/Mar/2023 21:26:09] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:29:58] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:30:59] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:32:28] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:33:23] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:37:41] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:37:49] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:38:48] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:39:12] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:40:44] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:40:48] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:41:16] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:41:44] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:42:21] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:42:37] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:43:15] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:47:25] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:48:23] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [08/Mar/2023 21:50:45] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2023 22:18:45] "GET /set/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [09/Mar/2023 23:05:56] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2023 23:07:04] "GET /rec/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [09/Mar/2023 23:19:15] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2023 23:23:58] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2023 23:26:08] "GET /rec/value HTTP/1.1" 200 -
+Param of Redis pwd:  None
+We now at %cd%
+ * Serving Flask app '04managegit' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [10/Mar/2023 00:21:38] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 00:29:03] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 00:32:16] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 09:10:07] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 09:12:16] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 09:27:14] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 09:38:29] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 09:39:50] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 09:53:20] "GET /push/message HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 10:50:59] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 12:17:18] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 13:39:17] "[31m[1mGET /rec/queue HTTP/1.1[0m" 400 -
+127.0.0.1 - - [10/Mar/2023 15:11:08] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 15:28:12] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 16:57:36] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2023 17:00:14] "GET /rec/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 15:55:31] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:16:04] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:16:40] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:16:53] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:21:54] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:41:29] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:42:52] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:48:27] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:49:18] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:49:26] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:49:47] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:50:16] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:51:24] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:52:35] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:53:01] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:54:10] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:54:54] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:56:46] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2023 16:57:16] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 10:47:26] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 10:50:35] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 11:51:16] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 11:52:02] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 11:54:56] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 11:55:45] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 11:57:24] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 11:58:05] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 11:59:39] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 12:00:27] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 12:00:57] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 12:01:55] "GET /set/value HTTP/1.1" 200 -
+127.0.0.1 - - [18/Mar/2023 12:31:59] "GET /rec/value HTTP/1.1" 200 -
